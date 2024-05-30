@@ -1,17 +1,17 @@
 # API RESTful - Nodejs, Firestore e Docker
-rotas com padrão RESTful para CRUD de usuários com Nodejs, Firestore e Docker
+API com padrão RESTful para CRUD de usuários com Nodejs, Firestore e Docker
 
 # GET users
-![alt text](image.png)
+![alt text](images-readme/image.png)
 
 # GET users/{id}
-![alt text](image-1.png)
+![alt text](images-readme/image-1.png)
 
 # POST users
-![alt text](image-2.png)
+![alt text](images-readme/image-2.png)
 
 # PUT users/{id} 
-![alt text](image-3.png)
+![alt text](images-readme/image-3.png)
 
 # DELETE users/{id}
-![alt text](image-4.png)
+![alt text](images-readme/image-4.png)
